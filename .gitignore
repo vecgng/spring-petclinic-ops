@@ -1,0 +1,14 @@
+# 密码和环境变量
+.env
+.env.*
+
+# 允许上传示例配置
+!.env.example
+
+# 构建产物
+target/
+*.jar
+
+# 日志与临时文件
+*.log
+*.bak
